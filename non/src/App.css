@@ -22,6 +22,8 @@ nav {
 section{
   text-align: center;
   padding: 20px;
+          
+  
 }
 
 .theHero{
@@ -46,11 +48,31 @@ section{
   margin-top: 0;
   
 }
+.bold {
+  font-weight: bold;
+}
+
+.gray {
+  color: #918E9B;
+}
 .card {
   width: 175px;
   font-size: 12px;
+  
+    
+  
+  
+
 }
 .swim{
   width: 100%;
   border-radius: 9px;
+}
+
+.cardStat{
+  
+  align-items: center;
+}
+.star{
+  height: 14px;
 }
