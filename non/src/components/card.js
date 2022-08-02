@@ -10,8 +10,9 @@ import Details from "./carddetails";
 function Card(){
     
     return (
-         <div  className="card">
-         <section>   
+      <section>
+         <div  className="cards">
+            
         < Details
           img = {swimmer}
            imgstar = {star}
@@ -50,9 +51,9 @@ function Card(){
           openspot = {5}
           location = "Offline"
           />
-          </section>
         
          </div>
+         </section>
         
     )
 }

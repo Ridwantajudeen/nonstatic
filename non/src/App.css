@@ -60,15 +60,20 @@ section{
   width: 175px;
   font-size: 12px;
   position: relative;
- 
-    
-  
+  margin-left: auto;
+  margin-right: auto;
   
 
 }
+.cards{
+  display: flex;
+  
+}
+
 .swim{
   width: 100%;
   border-radius: 9px;
+  max-height: 250px;
 }
 
 .cardStat{
