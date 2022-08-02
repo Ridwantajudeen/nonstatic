@@ -4,6 +4,7 @@
 
 body {
   margin: 0;
+  font-family: 'Poppins', sans-serif;
 }
 
 .theNav{
@@ -58,7 +59,8 @@ section{
 .card {
   width: 175px;
   font-size: 12px;
-  
+  position: relative;
+ 
     
   
   
@@ -75,4 +77,13 @@ section{
 }
 .star{
   height: 14px;
+}
+.cardbadge{
+  position: absolute;
+  top: 6px;
+  left: 6px;
+  background-color: white;
+  padding: 5px 7px;
+  border-radius: 2px;
+  font-weight: bold;
 }

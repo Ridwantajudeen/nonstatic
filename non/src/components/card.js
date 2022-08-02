@@ -21,6 +21,8 @@ function Card(){
           title = "Life Lessons with Katie Zaferes"
           price =" $136"
           user = "person"
+          openspot = {0}
+          location = "Online"
           />
         
            < Details
@@ -32,6 +34,8 @@ function Card(){
           title = "Learn Wedding Photography"
           price =" $125"
           user = "person"
+          openspot = {20}
+          location = "Online"
           />
           
            < Details
@@ -43,6 +47,8 @@ function Card(){
           title = "Group Mountain Biking"
           price =" $50"
           user = "person"
+          openspot = {5}
+          location = "Offline"
           />
           </section>
         
